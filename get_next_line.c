@@ -6,7 +6,7 @@
 /*   By: pivanovi <pivanovi@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2016/02/10 17:35:16 by pivanovi          #+#    #+#             */
-/*   Updated: 2016/02/10 17:35:16 by pivanovi         ###   ########.fr       */
+/*   Updated: 2016/02/24 16:19:24 by pivanovi         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 #include <unistd.h>
 
 #include "get_next_line.h"
-#include "libft/includes/libft.h"
+#include "libft.h"
 
 char		*strjoinf(char *s1, const char *s2, int len)
 {
